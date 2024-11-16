@@ -21,5 +21,6 @@ to-do
 [![Кликни меня](https://github.com/user-attachments/assets/03562d96-1f83-4a52-9510-6b41e8e61858)](https://ezhik25.github.io/mods/)
 <div class="horizon">
   <img src="images/topazes/topaz_sword.png" alt="1">
+  
   <img src="images/rubies/ruby_sword.png" alt="2">
 </div>
