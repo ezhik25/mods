@@ -7,6 +7,9 @@
   justify-content: center;
   align-items: center;
 }
+img {
+  margin: 5;
+}
 </style>
 
 
