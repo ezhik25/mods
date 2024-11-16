@@ -1,14 +1,13 @@
 <style>
 .horizon {
   padding: 0 24px;
-  margin: 0;
-  height: 100vh;
+  margin-right: 5px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 img {
-  margin: 5;
+  margin-right: 10px;
 }
 </style>
 
