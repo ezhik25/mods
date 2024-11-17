@@ -30,7 +30,7 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
 
 # Crafts:
 
-## <p style="color:red">Rubies</p>
+<h2 style="color:red">Rubies</h2>
 
 <div class="horizon">
   <img src="images/rubies/ruby_sword.png" alt="ruby_sword">
