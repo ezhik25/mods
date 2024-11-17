@@ -12,13 +12,43 @@ img {
 </style>
 
 
-# more gems and tools
-to-do
-<p style="color:blue">Этот текст будет синим.</p>
-<span style="background: linear-gradient(to right, #eb4034, #0066ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Градиентный текст</span>
+More Gems and Tools unveils a captivating realm of precious stones, each imbued with unique power. 
 
-[![Кликни меня](https://github.com/user-attachments/assets/03562d96-1f83-4a52-9510-6b41e8e61858)](https://ezhik25.github.io/mods/)
+ <p>• <span style="color: red;">Rubies</span> - the most potent gems, bestow upon your tools incredible strength. </p>
+
+ <p>• <span style="color: #f0ec11;">Topazes</span> - slightly less durable, offer a balance of power and resilience. </p>
+
+ <p>• <span style="color: purple;">Amethysts</span> - less strong than other gems but also good</p>
+
+ Craft these gems into extraordinary tools, 
+ 
+utilizing standard Minecraft crafting recipes, and embark on unforgettable journeys.
+
+
+# Crafts:
+
+## <p style="color:red">Rubies</p>
+
 <div class="horizon">
-  <img src="images/topazes/topaz_sword.png" alt="1">
-  <img src="images/rubies/ruby_sword.png" alt="2">
+  <img src="images/rubies/ruby_sword.png" alt="ruby_sword">
+  <img src="images/rubies/ruby_pickaxe.png" alt="ruby_pickaxe">
+  <img src="images/rubies/ruby_shovel.png" alt="Ruby_shovel">
 </div>
+
+**ruby sword**                                                                                                **ruby pickaxe**                                                                                  **ruby shovel**
+
+<div class="horizon">
+  <img src="images/rubies/ruby_axe_left.png" alt="ruby_axe">
+  <img src="images/rubies/ruby_axe_right.png" alt="ruby_axe">
+  <img src="images/rubies/ruby_hoe_left.png" alt="Ruby_hoe">
+</div>
+
+**ruby axe left editon**                                                                                             **ruby axe right edition**                                       **ruby hoe left edition**
+
+<div class="horizon">
+  <img src="images/rubies/ruby_hoe_right.png" alt="ruby_hoe">
+  <img src="images/rubies/ruby_block_to_rubies.png" alt="ruby_pickaxe">
+  <img src="images/rubies/rubies_to_ruby_block.png" alt="Rubies to ruby block">
+</div>
+
+**ruby hoe right edition**                                                                                  **ruby block to 9 rubies**                                                                             **9 rubies to ruby block**
