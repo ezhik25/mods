@@ -3,13 +3,14 @@
   padding: 0 24px;
   margin-right: 5px;
   display: flex;
-  justify-content: center;
+/*   justify-content: center; */
   align-items: center;
+  max-width: 500px
 }
 img {
   margin-right: 10px;
-  max-inline-size: 150px;
-  writing-mode: horizontal-tb; 
+/*   max-inline-size: 150px; */
+/*   writing-mode: horizontal-tb;  */
   width: 80%; /* Scaled to 80% of the container's width */
   height: auto; /* Maintains aspect ratio */
 }
