@@ -8,7 +8,8 @@
 }
 img {
   margin-right: 10px;
-  max-width: 150px; /* Maximum width in pixels */
+  max-inline-size: 150px;
+  writing-mode: horizontal-tb; 
   width: 80%; /* Scaled to 80% of the container's width */
   height: auto; /* Maintains aspect ratio */
 }
