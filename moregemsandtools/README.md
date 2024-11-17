@@ -8,7 +8,7 @@
 }
 img {
   margin-right: 10px;
-  max-width: 250px; /* Maximum width in pixels */
+  max-width: 150px; /* Maximum width in pixels */
   width: 80%; /* Scaled to 80% of the container's width */
   height: auto; /* Maintains aspect ratio */
 }
