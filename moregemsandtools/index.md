@@ -1,3 +1,4 @@
+<link rel="shortcut icon" href="icon.png" type="image/x-icon">
 ---
 title: "more gems and tools"
 ---
