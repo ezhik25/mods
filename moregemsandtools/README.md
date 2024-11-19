@@ -1,4 +1,3 @@
-<h1 class="project-name">more gems and tools</h1>
 <style>
 .horizon {
   padding: 0 24px;
