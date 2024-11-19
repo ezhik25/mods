@@ -3,7 +3,7 @@ title: "more gems and tools"
 ---
 
 <head>
-  <link rel="icon" href="./icon.png" type="image/png">
+  <link rel="icon" href="icon.png" type="image/png">
 </head>
 
 <style>
