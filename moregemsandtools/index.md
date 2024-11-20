@@ -1,11 +1,8 @@
 ---
 title: "more gems and tools"
-favicon: icon.png
 ---
 
-<head>
-  <link rel="icon" href="icon.png" type="image/x-icon">
-</head>
+<link rel="icon" href="favicon.ico" type="image/x-icon">
 
 <style>
 .horizon {
