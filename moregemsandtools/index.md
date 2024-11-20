@@ -1,6 +1,11 @@
 ---
 title: "more gems and tools"
 ---
+
+<head>
+  <link rel="icon" href="icon.png" type="image/x-icon">
+</head>
+
 <style>
 .horizon {
   padding: 0 24px;
