@@ -11,7 +11,7 @@ title: "more gems and tools"
   display: flex;
 /*   justify-content: center; */
   align-items: center;
-  max-width: 500px
+  max-width: 400px
 }
 img {
   margin-right: 10px;
