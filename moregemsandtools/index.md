@@ -1,5 +1,6 @@
 ---
 title: "more gems and tools"
+favicon: icon.png
 ---
 
 <head>
