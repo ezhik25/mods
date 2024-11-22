@@ -61,7 +61,10 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
     <img src="images/rubies/ruby_axe_right.png" alt="ruby_axe">
     <p class="caption">ruby axe right edition</p>
   </div>
+</div>
   <img src="images/rubies/ruby_hoe_left.png" alt="Ruby_hoe">
+  <p class="caption">ruby hoe left edition</p>
+</div>
 </div>
 
 **ruby axe left editon**                                                                                             **ruby axe right edition**                                       **ruby hoe left edition**
