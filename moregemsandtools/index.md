@@ -6,8 +6,6 @@
 title: "more gems and tools"
 ---
 
-<link rel="icon" href="favicon.ico" type="image/x-icon">
-
 <style>
 .horizon {
   padding: 0 24px;
