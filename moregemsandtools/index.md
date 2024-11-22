@@ -55,11 +55,11 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
 <div class="horizon">
   <div>
     <img src="images/rubies/ruby_axe_left.png" alt="ruby_axe">
-    <p class="caption>ruby axe left edition</p>
+    <p class="caption">ruby axe left edition</p>
   </div>
   <div>
     <img src="images/rubies/ruby_axe_right.png" alt="ruby_axe">
-    <p class="caption>ruby axe right edition</p>
+    <p class="caption">ruby axe right edition</p>
   </div>
   <img src="images/rubies/ruby_hoe_left.png" alt="Ruby_hoe">
 </div>
