@@ -46,7 +46,7 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
   <img src="images/rubies/ruby_shovel.png" alt="Ruby_shovel">
 </div>
 
-**ruby sword**                                                                                                **ruby pickaxe**                                                                                  **ruby shovel**
+**Ruby sword**                        **Ruby pickaxe**                        **Ruby shovel**
 
 <div class="horizon">
   <img src="images/rubies/ruby_axe_left.png" alt="ruby_axe">
