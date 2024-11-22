@@ -13,6 +13,10 @@ title: "more gems and tools"
   align-items: center;
   max-width: 400px
 }
+.caption {
+  font-weight: bold;
+  text-align: center;
+}
 img {
   margin-right: 10px;
 /*   max-inline-size: 150px; */
@@ -49,8 +53,14 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
                                    **Ruby sword**                                  **Ruby pickaxe**                                **Ruby shovel**
      
 <div class="horizon">
-  <img src="images/rubies/ruby_axe_left.png" alt="ruby_axe">
-  <img src="images/rubies/ruby_axe_right.png" alt="ruby_axe">
+  <div>
+    <img src="images/rubies/ruby_axe_left.png" alt="ruby_axe">
+    <p class="caption>ruby axe left edition</p>
+  </div>
+  <div>
+    <img src="images/rubies/ruby_axe_right.png" alt="ruby_axe">
+    <p class="caption>ruby axe right edition</p>
+  </div>
   <img src="images/rubies/ruby_hoe_left.png" alt="Ruby_hoe">
 </div>
 
