@@ -7,6 +7,8 @@
 
   <!-- Favicon logic -->
   {% if page.url contains '/moregemsandtools/' %}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jekyll-theme-cayman/1.0.1/style.css">
     <link rel="icon" href="{{ '/assets/moregemsandtools.ico' | relative_url }}" type="image/x-icon">
   {% else %}
     <link rel="icon" href="{{ '/assets/favicon-default.ico' | relative_url }}" type="image/x-icon">
