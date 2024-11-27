@@ -1,10 +1,10 @@
-<head>
-  <link rel="icon" href="icon.png" type="image/png">
-</head>
+---
+title: Моя страница
+---
 
----
-title: "more gems and tools"
----
+<head>
+  <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+</head>
 
 <style>
 .horizon {
