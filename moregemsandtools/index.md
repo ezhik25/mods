@@ -69,3 +69,12 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
 </div>
 
     **ruby hoe right edition**                        **ruby block to 9 rubies**                       **9 rubies to ruby block**
+
+<h2 style="color:#f0ec11">Topazes</h2>
+
+<div class="horizon">
+    <img src="images/topazes/topaz_sword.png" alt="topaz_sword">
+    <img src="images/topazes/topaz_pickaxe.png" alt="topaz_pickaxe">
+    <img src="images/topazes/topaz_shovel.png" alt="topaz_shovel">
+</div>
+                                   **topaz sword**                                  **topaz pickaxe**                                **topaz shovel**
