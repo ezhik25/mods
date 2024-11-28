@@ -110,4 +110,4 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
     <img src="images/amethysts/amethyst_hoe_left.png" alt="amethyst_hoe">
 </div>
 
-    **amethyst axe left edition**                 **amethyst axe right edition**              **amethyst hoe left edition**
+    **amethyst axe left edition**                 **amethyst axe right edition**              **amethyst hoe** **left edition**
