@@ -93,4 +93,4 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
   <img src="images/topazes/topazes_to_topaz_block.png" alt="topazes to topaz block">
 </div>
 
-   **topaz hoe right edition**                        **topaz block to 9 topazes**                       **9 topazes to topaz block**
+   **topaz hoe right edition**                        **topaz block to 9 topazes**                 **9 topazes to topaz block**
