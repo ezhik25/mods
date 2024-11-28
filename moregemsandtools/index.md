@@ -94,3 +94,12 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
 </div>
 
    **topaz hoe right edition**                        **topaz block to 9 topazes**                 **9 topazes to topaz block**
+
+<h2 style="color:purple">Amethysts</h2>
+
+<div class="horizon">
+    <img src="images/amethysts/amethyst_sword.png" alt="amethyst_sword">
+    <img src="images/amethysts/amethyst_pickaxe.png" alt="amethyst_pickaxe">
+    <img src="images/amethysts/amethyst_shovel.png" alt="amethyst_shovel">
+</div>
+                                   **amethyst sword**                                  **amethyst pickaxe**                                **amethyst shovel**
