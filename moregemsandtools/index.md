@@ -111,3 +111,11 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
 </div>
 
     **amethyst axe left edition**                 **amethyst axe right edition**           **amethyst hoe left edition**
+
+<div class="horizon">
+    <img src="images/amethysts/amethyst_hoe_right.png" alt="amethyst_hoe">
+    <img src="images/amethysts/amethyst_block_to_amethysts.png" alt="amethyst_block_to_amethysts">
+    <img src="images/amethysts/amethysts_to_amethyst_block.png" alt="amethysts_to_amethyst_block">
+</div>
+
+**amethyst hoe right edtion**     **amethyst block to 9 amethysts**  **9 amethysts to amethyst block**
