@@ -68,4 +68,4 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
   <img src="images/rubies/rubies_to_ruby_block.png" alt="Rubies to ruby block">
 </div>
 
-**ruby hoe right edition**                                                                                  **ruby block to 9 rubies**                                                                             **9 rubies to ruby block**
+    **ruby hoe right edition**                        **ruby block to 9 rubies**                 **9 rubies to ruby block**
