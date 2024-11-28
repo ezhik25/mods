@@ -90,7 +90,7 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
 <div class="horizon">
   <img src="images/topazes/topaz_hoe_right.png" alt="topaz_hoe">
   <img src="images/topazes/topaz_block_to_topazes.png" alt="topaz_pickaxe">
-  <img src="images/topazes/topaz_to_topaz_block.png" alt="topazes to topaz block">
+  <img src="images/topazes/topazes_to_topaz_block.png" alt="topazes to topaz block">
 </div>
 
    **topaz hoe right edition**                        **topaz block to 9 topazes**                       **9 topazes to topaz block**
