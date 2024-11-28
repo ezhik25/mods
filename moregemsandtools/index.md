@@ -119,4 +119,4 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
 </div>
 
 **amethyst hoe right edtion**        **amethyst block to 9 amethysts**                                **9 amethysts to**
-                                                                                                                                                                   **amethyst block**
+                                                                                                                                                          **amethyst block**
