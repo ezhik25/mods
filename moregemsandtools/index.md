@@ -102,4 +102,4 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
     <img src="images/amethysts/amethyst_pickaxe.png" alt="amethyst_pickaxe">
     <img src="images/amethysts/amethyst_shovel.png" alt="amethyst_shovel">
 </div>
-                         **amethyst sword**                                  **amethyst pickaxe**                                **amethyst shovel**
+            **amethyst sword**                                  **amethyst pickaxe**                                **amethyst shovel**
