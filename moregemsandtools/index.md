@@ -103,3 +103,11 @@ utilizing standard Minecraft crafting recipes, and embark on unforgettable journ
     <img src="images/amethysts/amethyst_shovel.png" alt="amethyst_shovel">
 </div>
             **amethyst sword**                                  **amethyst pickaxe**                                **amethyst shovel**
+
+<div class="horizon">
+    <img src="images/amethysts/amethyst_axe_left.png" alt="amethyst_axe">
+    <img src="images/amethysts/amethyst_axe_right.png" alt="amethyst_axe">
+    <img src="images/amethysts/amethyst_hoe_left.png" alt="amethyst_hoe">
+</div>
+
+    **amethyst axe left edition**                                  **amethyst axe right edition**                    **amethyst hoe left edition**
