@@ -1,5 +1,5 @@
 ---
-title: "more gems and tools"
+title: "elemental harmony"
 ---
 
 <head>
